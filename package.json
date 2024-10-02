@@ -1,0 +1,16 @@
+{
+  "name": "node_docker",
+  "version": "1.0.0",
+  "description": "Node image to push in hub.docker.com",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gajanan Bodhanker",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.7.0",
+    "nodemon": "^3.1.7"
+  }
+}
